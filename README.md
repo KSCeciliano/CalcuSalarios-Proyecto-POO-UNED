@@ -11,10 +11,12 @@ Para la GUI se utilizó Java Swing en este proyecto con ayuda de la herramienta 
 
 
 ## Screenshots
+Ventana en donde se modifican los empleados
+![Ventana Empleados](screenshots/ventanaEmpleados.PNG)
 
-![Ventana Empleados](screenshots/ventanaEmpleados.png)
+Ventana en donde se calculan los salarios
+![Ventana Calculadora de Salarios](screenshots/ventanaCalculadoraDeSalario.PNG)
 
-![Ventana Calculadora de Salarios](screenshots/ventanaCalculadoraDeSalario.png)
-
-![Ventana Reportes](screenshots/ventanaReporte.png)
+Ventana de generación de reportes
+![Ventana Reportes](screenshots/ventanaReporte.PNG)
 
