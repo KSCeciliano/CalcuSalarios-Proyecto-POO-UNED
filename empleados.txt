@@ -1,0 +1,7 @@
+10,Juan,Pérez,21,Programador,2023-01-01
+2,Kester,Gamboa,43,Teacher,2022-02-11
+231,Ana,García,30,Diseñadora,2018-06-01
+777,Deyna,Chavez,19,Diseñadora,2022-03-05
+8321,Jorge,Araya,30,Técnico,2018-02-01
+654,Kevin,Ceciliano,21,Tester,2023-05-23
+32,Carlos,Valverde,22,Soporte,2022-03-30
